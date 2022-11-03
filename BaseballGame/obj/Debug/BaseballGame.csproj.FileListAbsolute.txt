@@ -1,0 +1,7 @@
+C:\Users\이근영\source\repos\BaseballGame\BaseballGame\bin\Debug\BaseballGame.exe.config
+C:\Users\이근영\source\repos\BaseballGame\BaseballGame\bin\Debug\BaseballGame.exe
+C:\Users\이근영\source\repos\BaseballGame\BaseballGame\bin\Debug\BaseballGame.pdb
+C:\Users\이근영\source\repos\BaseballGame\BaseballGame\obj\Debug\BaseballGame.csproj.AssemblyReference.cache
+C:\Users\이근영\source\repos\BaseballGame\BaseballGame\obj\Debug\BaseballGame.csproj.CoreCompileInputs.cache
+C:\Users\이근영\source\repos\BaseballGame\BaseballGame\obj\Debug\BaseballGame.exe
+C:\Users\이근영\source\repos\BaseballGame\BaseballGame\obj\Debug\BaseballGame.pdb
